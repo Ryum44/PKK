@@ -1,8 +1,4 @@
-Berikut adalah **README.md** dalam bahasa Indonesia untuk aplikasi manajemen absensi siswa yang kamu jelaskan:
 
----
-
-````markdown
 # 📚 Sistem Manajemen Absensi Siswa
 
 Aplikasi berbasis **web** dan **mobile** untuk memudahkan guru dalam mengelola absensi siswa, serta memberikan akses kepada siswa dan wali untuk melihat catatan absensi secara real-time.  
@@ -115,9 +111,4 @@ Proyek ini dilisensikan di bawah **MIT License** – silakan gunakan dan modifik
 Untuk pertanyaan atau saran, silakan hubungi:
 **Email**: [support@absensisekolah.com](mailto:support@absensisekolah.com)
 
-```
 
----
-
-Kalau mau, aku bisa buatkan **diagram arsitektur sistem** dan **skema database**-nya biar README ini jadi lebih lengkap. Itu akan membantu developer baru cepat memahami alurnya.
-```
