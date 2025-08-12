@@ -98,17 +98,5 @@ npm run dev # atau python manage.py runserver
 npm start
 ```
 
----
-
-## 📜 Lisensi
-
-Proyek ini dilisensikan di bawah **MIT License** – silakan gunakan dan modifikasi sesuai kebutuhan.
-
----
-
-## 📧 Kontak
-
-Untuk pertanyaan atau saran, silakan hubungi:
-**Email**: [support@absensisekolah.com](mailto:support@absensisekolah.com)
 
 
